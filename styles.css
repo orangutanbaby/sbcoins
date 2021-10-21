@@ -18,7 +18,7 @@ body {
 }
 #join {
   color: #333333;
-  background-color: #23b31e;
+  background-color: #FFD700;
   font-family: Brush Script MT;
   position: relative;
   text-align: center;
@@ -29,7 +29,7 @@ body {
   border-radius: 10px;
 }
 #join:hover {
-  background-color: #229e1e;
+  background-color: #d4af37;
   transition-duration: 0.4s;
   box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
     0 17px 50px 0 rgba(0, 0, 0, 0.19);
